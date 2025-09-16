@@ -35,8 +35,6 @@ I’m a **Senior Software Engineer** with experience building scalable mobile an
   - [Extended Reality Initiative (XRi)](https://praxi.guans.cs.kent.edu/session/login)
 ---
 
-- 📫 How to reach me **rajanmaharjanmails@gmail.com**
-
 ## 📊 GitHub Stats
 > Contributions are split across multiple accounts (past work at SunStrong/SunPower and this personal account).  
 > Below, you’ll see an aggregate view.
@@ -65,4 +63,7 @@ https://mrajan.com.np/posts/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanjs&show_icons=true&locale=en" alt="rajanjs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanjs&" alt="rajanjs" /></p>
+## 🌍 Let’s Connect
+- [🌐 Portfolio](https://mrajan.com.np/)  
+- [💼 LinkedIn](https://linkedin.com/in/rajanmaharjan)  
+- 📧 Email: rajanmaharjanmails@gmail.com
