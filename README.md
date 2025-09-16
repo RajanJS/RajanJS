@@ -24,7 +24,6 @@ I’m a **Senior Software Engineer** with experience building scalable mobile an
   - Designed and integrated IoT commissioning flows, cutting onboarding time by **40%**.  
 
 - **At WorkSolo** (current role):  
-  - Leading subscription/paywall development with **Stripe PaymentSheet, Apple Pay, and Google Pay**.  
   - Scaling real-time gig-worker features to thousands of users.  
 
 - **Open Source & Side Projects**:  
