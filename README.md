@@ -2,10 +2,14 @@
 
 I’m a **Senior Software Engineer** with experience building scalable mobile and web applications, especially in clean energy, gig economy, and payment platforms.  
 
+## 🌱 About Me
+
+- Previously working at **SunStrong / SunPower Corporation**; this is my legacy GitHub account: [@maharjanrajans](https://github.com/maharjanrajans)  
+- Currently focused on React Native, cross-platform mobile & web apps, commissioning tools, CI/CD pipeline automation.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanjs&label=Profile%20views&color=0e75b6&style=flat" alt="rajanjs" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanjs" alt="rajanjs" /></a> </p>
-
 
 ---
 
