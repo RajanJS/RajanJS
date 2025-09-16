@@ -63,8 +63,19 @@ https://mrajan.com.np/posts/
 > Personal Github Contributions  > SunStrong/SunPower Github Contributions
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanjs&show_icons=true&locale=en&layout=compact" alt="rajanjs" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maharjanrajans&show_icons=true&locale=en&layout=compact" alt="maharjanrajans" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanjs&show_icons=true&locale=en" alt="rajanjs" /></p>
+
+![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab)
+
+## 🔗 Other Profiles & Contributions
+
+- **GitHub**: [RajanJs](https://github.com/RajanJs) — public projects, open source work, current contributions.
+- **Legacy / Work Account**: [maharjanrajans](https://github.com/maharjanrajans) — SunStrong / SunPower related work.
+- **GitLab**: [rajanmaharjanmails](https://gitlab.com/rajanmaharjanmails) — profile showing recent activity, contributions, and achievements.
+
+## 🛠 Badge / Graphs
+<!-- Embed GitHub profile stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajanjs&show_icons=true&theme=radical)
 
 ## 🌍 Let’s Connect
 - [🌐 Portfolio](https://mrajan.com.np/)  
