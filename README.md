@@ -16,6 +16,9 @@ I love building apps that make real-world impact and mentoring teams to grow tec
 - 🧠 Exploring **AI for frontend (MLKit, TensorFlow.js)**  
 - 🧩 Portfolio: [mrajan.com.np](https://mrajan.com.np/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanjs&label=Profile%20views&color=0e75b6&style=flat" alt="rajanjs" /> </p>
+<p align="left"> <a href="https://github.com/rajanjs/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanjs" alt="rajanjs" /></a> </p>
+
 ---
 
 ## 🧰 Tech Stack
