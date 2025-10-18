@@ -60,9 +60,9 @@ I love building apps that make real-world impact and mentoring teams to grow tec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanjs&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanjs&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+</p> -->
 
 ## 📈 GitHub Stats & Activity
 > Contributions are split across multiple accounts:  
