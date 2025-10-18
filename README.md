@@ -26,21 +26,27 @@ I love building apps that make real-world impact and mentoring teams to grow tec
 
 ---
 ## 🚀 Highlights
-### ☀️ SunStrong / SunPower
-- Built installer mobile apps used by **1,000+ field users**
-- Reduced deployment time by **30%** via CI/CD automation  
-- Integrated IoT BLE commissioning tools improving efficiency by **20%**
-- Improved onboarding flow reducing setup time by **40%**
 
 ### 💼 WorkSolo
 - Scaling **gig-worker platforms** with real-time scheduling and Stripe subscription logic  
 - Implemented complex **Apple Pay / Google Pay** flows and fraud-resistant Stripe Radar policies  
 - Mentoring engineers & optimizing release processes with **Fastlane + GitLab CI**
 
+### ☀️ SunStrong / SunPower
+- Built installer mobile apps used by **1,000+ field users**
+- Reduced deployment time by **30%** via CI/CD automation  
+- Integrated IoT BLE commissioning tools improving efficiency by **20%**
+- Improved onboarding flow reducing setup time by **40%**
+
 ### 🎴 Open Source & Side Projects
 - [Marriage Game Point Calculator](https://mrajan.com.np/mgpc) – score tracking app for the popular card game  
 - [Sangam Books](https://github.com/rajanjs) – Flutter-based reading platform  
 - Exploring **TensorFlow.js**, **MLKit**, and **vision-based mobile AI** features
+  
+### 🎓 Graduate Research Assistant Project
+- **Extended Reality Initiative (XRi)** — [View Project ↗](https://praxi.guans.cs.kent.edu/session/login)  
+  Developed experimental prototypes merging **AR/VR**, **data visualization**, and **education technology**.  
+  Worked on immersive design, cross-device compatibility, and system-level debugging to support XR-based classroom experiences.
 
 ---
 
