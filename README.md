@@ -69,7 +69,7 @@ I love building apps that make real-world impact and mentoring teams to grow tec
 
 ## 📈 GitHub Stats & Activity
 > Contributions are split across multiple accounts:  
-> [@rajanjs](https://github.com/rajanjs) (personal) and [@maharjanrajans](https://github.com/maharjanrajans) (SunPower work)
+> [@rajanjs](https://github.com/rajanjs) (personal),  [@maharjanrajans](https://github.com/maharjanrajans) (SunPower work) and [@mRajanKent](https://github.com/RajanKent)) (Kent State University)
 
 ---
 
